@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Publications
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Jannat Ara Meem, Muhammad Shihab Rashid, Yue Dong, and Vagelis Hristidis. PAT-Questions: A Self-Updating Benchmark for Present-Anchored Temporal Question-Answering, Findings of the Association for Computational Linguistics (ACL '24)](/sample_page)
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
