@@ -4,9 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   PhD Candidate, UC Riverside
   <br>
   Graduating in Spring 2026
-  <br><br>
-  Research Area: Information Retrieval (IR), Generative and Multimodal AI, Reasoning and Question-Answering for LLMs and VLMs 
-  <br><br><br>
+  <br>><br>
   <a href="https://www.linkedin.com/in/jannat-ara-meem-197a0b165/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
