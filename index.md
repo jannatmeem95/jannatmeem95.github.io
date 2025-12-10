@@ -6,16 +6,15 @@ author_profile: true
 ---
 
 {% include base_path %}
-**AI Researcher | Search, Ranking, Reasoning, Multi-agent DeepResearch**
+## **AI Researcher | Search, Ranking, Reasoning, Multi-agent DeepResearch**
 
- I am an NLP/ML researcher with 4+ years of experience in Information Retrieval, and LLM reasoning, and 2 years of applied research in Agentic AI. I built and deployed LLM-based models and agentic workflows that improved real-world voice assistant and automation systems at scale during my internships at Samsung Research America,. My PhD research focuses on search, retrieval, LLM reasoning and post-training, and agentic pipelines. I am actively seeking full-time Research Scientist / Applied Scientist roles beginning June 2026.
+ I am a PhD candidate at University of California, Riverside. My PhD research focuses on search, information retrieval, LLM reasoning and post-training, and Agentic AI. I bring industry experience on building and deploying LLM-based models and agentic workflows that improved real-world voice assistant and automation systems at scale through my internships at Samsung Research America,. I am actively seeking full-time Research Scientist / Applied Scientist roles beginning June 2026.
 
 ---
 
 ## <span id="education"></span> Education
-
-* **Ph.D., Computer Science**, University of California, Riverside
-  **May 2026 (Expected)**  
+* **Ph.D., Computer Science**, University of California, Riverside  
+  **May 2026 (Expected)**
   
   Advisor: Vagelis Hristidis  
 
