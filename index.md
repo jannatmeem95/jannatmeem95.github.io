@@ -6,15 +6,17 @@ author_profile: true
 ---
 
 {% include base_path %}
-###**AI Researcher | Search, Ranking, Reasoning, Agentic LLM Systems**
- I am an NLP/ML researcher with 4+ years of experience in Information Retrieval, LLM reasoning, and Generative AI, and 2 years of applied research in Agentic AI. At Samsung Research America, I built and deployed LLM-based models and agentic workflows that improved real-world voice assistant and automation systems at scale. My strengths include LLM post-training, retrieval and ranking models, multi-step reasoning systems, and production-grade agentic pipelines. I am actively seeking full-time Research Scientist / Applied Scientist roles beginning June 2026.
+**AI Researcher | Search, Ranking, Reasoning, Multi-agent DeepResearch**
+
+ I am an NLP/ML researcher with 4+ years of experience in Information Retrieval, and LLM reasoning, and 2 years of applied research in Agentic AI. I built and deployed LLM-based models and agentic workflows that improved real-world voice assistant and automation systems at scale during my internships at Samsung Research America,. My PhD research focuses on search, retrieval, LLM reasoning and post-training, and agentic pipelines. I am actively seeking full-time Research Scientist / Applied Scientist roles beginning June 2026.
+
 ---
 
 ## <span id="education"></span> Education
 
-* **Ph.D., Computer Science**, University of California, Riverside — *Graduate Year Fellow*  
+* **Ph.D., Computer Science**, University of California, Riverside
   **May 2026 (Expected)**  
-  Research Focus: Information Retrieval, Generative AI, Agentic AI, LLM Reasoning & QA  
+  
   Advisor: Vagelis Hristidis  
 
 * **M.Sc., Computer Science**, University of California, Riverside  
@@ -78,9 +80,10 @@ author_profile: true
 
 ---
 
-## <span id="service"></span> Service & Leadership
+## <span id="service"></span> Service & Awards
 
 * Peer Reviewer: ACL, SIGSPATIAL, SIGMOD, EDBT, DMAH  
 * Academic Service: Conference reviews, mentoring, research presentations  
+* Awards: Graduate Year Fellowship at UCR
 
 ---
