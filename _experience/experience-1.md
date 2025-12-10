@@ -2,7 +2,6 @@
 title: "Research and Engineering Intern"
 collection: experience
 organization: "Advanced Intelligence Lab, Samsung Research America"
-role: "Summer Research Intern"
 location: "Mountain View, CA, USA"
 dates: "June 2025 – September 2025"
 date: 2025-06-01
