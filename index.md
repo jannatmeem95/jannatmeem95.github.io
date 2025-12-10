@@ -6,42 +6,41 @@ author_profile: true
 ---
 
 {% include base_path %}
- I am a PhD candidate at University of California, Riverside. My PhD research focuses on search, information retrieval, LLM reasoning and post-training, and Agentic AI. I bring industry experience on building and deploying LLM-based models and agentic workflows that improved real-world voice assistant and automation systems at scale through my internships at Samsung Research America. I am actively seeking full-time Research Scientist / Applied Scientist roles beginning June 2026.
+I am a PhD candidate at UC Riverside with a focus on information retrieval, LLM reasoning, and agentic AI. I also bring industry experience from Samsung Research America, where I built LLM-driven models and agentic workflows for large-scale voice assistant systems. I am currently seeking full-time Research Scientist / Applied Scientist roles starting June 2026.
 
 ---
 
 ## <span id="education"></span> Education
 * **Ph.D., Computer Science**, University of California, Riverside  
-  **May 2026 (Expected)**
-  
+   *May 2026 (Expected)*
   Advisor: Vagelis Hristidis  
 
-* **M.Sc., Computer Science**, University of California, Riverside  
-  **December 2024**
+* **M.S., Computer Science**, University of California, Riverside  
+  *December 2024*
 
 * **B.Sc., Computer Science**, Bangladesh University of Engineering and Technology  
-  **April 2019**
+  *April 2019*
 
 ---
 
 ## <span id="experience"></span> Research & Industry Experience
 
 ### **Research and Engineering Intern**  
-**Advanced Intelligence Lab, Samsung Research America**, Mountain View, CA  
+Advanced Intelligence Lab, Samsung Research America, Mountain View, CA  
 *June 2025 – September 2025*  
 - Worked on agentic orchestration workflows for voice assistant solutions  
 - Designed LLM-driven agents for multi-step reasoning  
 - Built specialized domain agents using RL  
 
 ### **NLP Intern**  
-**Bixby Lab, Samsung Research America**, Mountain View, CA  
+Bixby Lab, Samsung Research America, Mountain View, CA  
 *June–Sept 2024; July–Sept 2023*  
 - Designed LLM-powered program synthesis methods  
 - Fine-tuned open-source LLMs for reasoning, planning, and factuality  
 
 ### **Graduate Student Researcher**  
-**UC Riverside**, 2021–Present  
-- Specialized retriever–ranker pipelines  
+UC Riverside, 2021–Present  
+- Specialized retriever–ranker and agentic pipelines  
 - Present-anchored temporal QA (**PAT-QA**)  
 - LLM re-ranking (**EcoRank**)  
 - Out-of-schema QA (**ECML-PKDD**)  
@@ -51,7 +50,7 @@ author_profile: true
 
 ## <span id="skills"></span> Technical Skills
 
-**Languages:** Python, C/C++, Java, Bash, SQL, JavaScript, SPARQL, Scala, HTML/CSS, XML  
+**Languages:** Python, C/C++, Java, Bash, SQL, JavaScript, SPARQL, Scala 
 **Frameworks/Libraries:** PyTorch, TensorFlow, HuggingFace, PEFT, LangChain, Pandas, NumPy, Sklearn, NLTK, Lucene  
 **Systems:** CUDA, Hadoop, Spark, Django  
 
