@@ -1,8 +1,7 @@
 ---
-title: "LLM Program Synthesis & Reasoning Intern"
+title: "NLP Intern"
 collection: experience
 organization: "North America Bixby Lab, Samsung Research America"
-role: "NLP Intern"
 location: "Mountain View, CA, USA"
 dates: "June–September 2024; July–September 2023"
 date: 2024-06-01

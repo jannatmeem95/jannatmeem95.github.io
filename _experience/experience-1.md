@@ -1,5 +1,5 @@
 ---
-title: "Agentic Orchestration Research Intern"
+title: "Research and Engineering Intern"
 collection: experience
 organization: "Advanced Intelligence Lab, Samsung Research America"
 role: "Summer Research Intern"
