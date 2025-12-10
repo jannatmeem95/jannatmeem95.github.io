@@ -84,8 +84,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  publications:
-    title: 'Published Papers'    
+  manuscripts:
+    title: 'Journal Articles'    
+  conferences:
+    title: 'Conference Papers'   
 
 
 # Site Settings
