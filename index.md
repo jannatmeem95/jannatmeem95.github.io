@@ -13,7 +13,8 @@ I am a PhD candidate at UC Riverside with a focus on information retrieval, LLM 
 ## <span id="education"></span> Education
 * **Ph.D., Computer Science**, University of California, Riverside  
    *May 2026 (Expected)*
-  Advisor: Vagelis Hristidis  
+
+  Advisor: [Vagelis Hristidis](https://www.cs.ucr.edu/~vagelis/)
 
 * **M.S., Computer Science**, University of California, Riverside  
   *December 2024*
@@ -48,14 +49,6 @@ UC Riverside, 2021–Present
 
 ---
 
-## <span id="skills"></span> Technical Skills
-
-**Languages:** Python, C/C++, Java, Bash, SQL, JavaScript, SPARQL, Scala 
-**Frameworks/Libraries:** PyTorch, TensorFlow, HuggingFace, PEFT, LangChain, Pandas, NumPy, Sklearn, NLTK, Lucene  
-**Systems:** CUDA, Hadoop, Spark, Django  
-
----
-
 ## <span id="publications"></span> Publications
 
 <ul>
@@ -76,10 +69,21 @@ UC Riverside, 2021–Present
 
 ---
 
+## <span id="skills"></span> Technical Skills
+
+**Languages:** Python, C/C++, Java, Bash, SQL  
+**LLM & ML:** PyTorch, HuggingFace Transformers, LoRA/PEFT, DeepSpeed, vLLM  
+**Retrieval & IR:** Pyserini, Lucene, FAISS, BM25  
+**Agentic AI:** LangChain, LlamaIndex, custom multi-agent frameworks  
+**Distributed / Data:** Spark, Ray, Hadoop  
+**Tools:** Docker, Git, Slurm, Linux, Pandas, NumPy, Scikit-learn
+
+---
+
 ## <span id="service"></span> Service & Awards
 
 * Peer Reviewer: ACL, SIGSPATIAL, SIGMOD, EDBT, DMAH  
-* Academic Service: Conference reviews, mentoring, research presentations  
+* Academic Service: Conference reviews, mentoring, volunteering, research presentations  
 * Awards: Graduate Year Fellowship at UCR
 
 ---
