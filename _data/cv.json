@@ -76,33 +76,14 @@
       "website": "https://academicpages.github.io/files/paper2.pdf"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
       "name": "Modeling the Impact of Out-of-schema Questions in Task-Oriented Dialog Systems",
       "publisher": "ECML PKDD '24 in collaboration with Data Mining and Knowledge Discovery Journal",
       "website": "https://academicpages.github.io/files/paper3.pdf",
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "summary": "This paper is about fixing template issue #693."
     }
   ],
+  "presentations": [],
+  "teaching": [],
   "portfolio": [
     {
       "name": "Portfolio item number 1",
