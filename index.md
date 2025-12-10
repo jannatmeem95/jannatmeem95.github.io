@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
- I am a PhD candidate at University of California, Riverside. My PhD research focuses on search, information retrieval, LLM reasoning and post-training, and Agentic AI. I bring industry experience on building and deploying LLM-based models and agentic workflows that improved real-world voice assistant and automation systems at scale through my internships at Samsung Research America,. I am actively seeking full-time Research Scientist / Applied Scientist roles beginning June 2026.
+ I am a PhD candidate at University of California, Riverside. My PhD research focuses on search, information retrieval, LLM reasoning and post-training, and Agentic AI. I bring industry experience on building and deploying LLM-based models and agentic workflows that improved real-world voice assistant and automation systems at scale through my internships at Samsung Research America. I am actively seeking full-time Research Scientist / Applied Scientist roles beginning June 2026.
 
 ---
 
