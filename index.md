@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+###**AI Researcher | Search, Ranking, Reasoning, Agentic LLM Systems**
+ I am an NLP/ML researcher with 4+ years of experience in Information Retrieval, LLM reasoning, and Generative AI, and 2 years of applied research in Agentic AI. At Samsung Research America, I built and deployed LLM-based models and agentic workflows that improved real-world voice assistant and automation systems at scale. My strengths include LLM post-training, retrieval and ranking models, multi-step reasoning systems, and production-grade agentic pipelines. I am actively seeking full-time Research Scientist / Applied Scientist roles beginning June 2026.
 ---
 
 ## <span id="education"></span> Education
